@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/minha-landing/static/css/main.a450696b.css",
+    "main.js": "/minha-landing/static/js/main.3b988f31.js",
+    "static/media/me.jpg": "/minha-landing/static/media/me.5f7d7f2a3b4a68282888.jpg",
+    "index.html": "/minha-landing/index.html",
+    "main.a450696b.css.map": "/minha-landing/static/css/main.a450696b.css.map",
+    "main.3b988f31.js.map": "/minha-landing/static/js/main.3b988f31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a450696b.css",
+    "static/js/main.3b988f31.js"
+  ]
+}
