@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/minha-landing/static/css/main.a450696b.css",
-    "main.js": "/minha-landing/static/js/main.3b988f31.js",
-    "static/media/me.jpg": "/minha-landing/static/media/me.5f7d7f2a3b4a68282888.jpg",
-    "index.html": "/minha-landing/index.html",
-    "main.a450696b.css.map": "/minha-landing/static/css/main.a450696b.css.map",
-    "main.3b988f31.js.map": "/minha-landing/static/js/main.3b988f31.js.map"
+    "main.css": "/Minha-Landing/static/css/main.a450696b.css",
+    "main.js": "/Minha-Landing/static/js/main.ca54fd2b.js",
+    "static/media/me.jpg": "/Minha-Landing/static/media/me.5f7d7f2a3b4a68282888.jpg",
+    "index.html": "/Minha-Landing/index.html",
+    "main.a450696b.css.map": "/Minha-Landing/static/css/main.a450696b.css.map",
+    "main.ca54fd2b.js.map": "/Minha-Landing/static/js/main.ca54fd2b.js.map"
   },
   "entrypoints": [
     "static/css/main.a450696b.css",
-    "static/js/main.3b988f31.js"
+    "static/js/main.ca54fd2b.js"
   ]
 }
