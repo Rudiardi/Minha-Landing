@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Minha-Landing/static/css/main.2570f71c.css",
+    "main.js": "/Minha-Landing/static/js/main.ca54fd2b.js",
+    "static/media/me.jpg": "/Minha-Landing/static/media/me.5f7d7f2a3b4a68282888.jpg",
+    "index.html": "/Minha-Landing/index.html",
+    "main.2570f71c.css.map": "/Minha-Landing/static/css/main.2570f71c.css.map",
+    "main.ca54fd2b.js.map": "/Minha-Landing/static/js/main.ca54fd2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2570f71c.css",
+    "static/js/main.ca54fd2b.js"
+  ]
+}
