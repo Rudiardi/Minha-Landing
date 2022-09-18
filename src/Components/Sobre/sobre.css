@@ -1,0 +1,42 @@
+.container-sobre{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:400;
+    font-size: 28px;
+    padding-left: 115px;
+}
+.titulo{
+    text-decoration-line: underline;
+}
+.negrito{
+    font-weight: 900;
+    font-size: 42px;
+}
+.container-textos{
+    height: 500px;
+    width: 450px;
+    border:solid 3px;
+    border-color: black;
+    border-radius: 5%;
+    font-size: 24px;
+    padding: 1%;
+    overflow-y: scroll;
+    scrollbar-color: black;
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    text-indent: 20px;
+}
+.container-textos::-webkit-scrollbar {
+    width: 12px;
+}
+.container-textos::-webkit-scrollbar-track {
+    background: #ebeaea;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.container-textos::-webkit-scrollbar-thumb {
+    background-color: #000000;
+    border-radius: 5px;
+    border: 1px solid #ffffff;
+}

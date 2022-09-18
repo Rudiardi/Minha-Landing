@@ -1,0 +1,29 @@
+.containerApresetacao{
+    flex:1;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    align-items: center;
+    height: 200px;
+    width: auto;
+}
+.textos{
+    display: flex;
+    flex-direction: column;
+    height: 50%;
+    width: 50%;
+}
+.bloco{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:900;
+    font-size: 28px;
+    flex: 1;
+}
+.isolado{
+    font-weight:400;
+}
+img{
+    width: 200px;
+    height: auto;
+    border-radius: 100%;
+}
