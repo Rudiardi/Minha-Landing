@@ -1,8 +1,39 @@
+.container-geral{
+    flex:1;
+    display:flex;
+    justify-content: space-around;
+}
+.container-habilidades{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:400;
+    font-size: 28px;
+}
+.caixa-botoes{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.botao{
+    font-size:15px;
+    font-family:Arial;
+    width:140px;
+    height:50px;
+    border-width:1px;
+    color:#fff;
+    border-color:#566963;
+    font-weight:bold;
+    border-top-left-radius:5px;
+    border-top-right-radius:5px;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px;
+    box-shadow:inset 0px 1px 3px 0px #91b8b3;
+    text-shadow:inset 0px -1px 0px #2b665e;
+    background:linear-gradient(#768d87, #6c7c7c);
+}
 .container-sobre{
     font-family: 'Montserrat', sans-serif;
     font-weight:400;
     font-size: 28px;
-    padding-left: 8%;
 }
 .titulo{
     text-decoration-line: underline;
