@@ -11,25 +11,49 @@
 .caixa-botoes{
     display: flex;
     flex-direction: column;
-    justify-content: center;
 }
+.bot1{
+    display: flex;
+}
+.orgbutton{
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
 .botao{
-    font-size:15px;
-    font-family:Arial;
-    width:140px;
-    height:50px;
-    border-width:1px;
-    color:#fff;
-    border-color:#566963;
-    font-weight:bold;
-    border-top-left-radius:5px;
-    border-top-right-radius:5px;
-    border-bottom-left-radius:5px;
-    border-bottom-right-radius:5px;
-    box-shadow:inset 0px 1px 3px 0px #91b8b3;
-    text-shadow:inset 0px -1px 0px #2b665e;
-    background:linear-gradient(#768d87, #6c7c7c);
+  flex:1;
+  appearance: button;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #000;
+  border-radius: 4px;
+  box-shadow: #000 4px 4px 0 0,#000 4px 4px 0 1px;
+  box-sizing: border-box;
+  color: #000;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 20px;
+  margin: 0 5px 10px 0;
+  overflow: visible;
+  padding: 12px 40px;
+  text-align: center;
+  text-transform: none;
+  touch-action: manipulation;
+  user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
 }
+.botao:hover{
+    background-color: rgb(60, 60, 60);
+}
+
 .container-sobre{
     font-family: 'Montserrat', sans-serif;
     font-weight:400;

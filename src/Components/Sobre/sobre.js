@@ -1,5 +1,7 @@
 import React from "react";
-import './sobre.css'
+import './sobre.css';
+import {AiOutlineArrowDown} from 'react-icons/ai'
+
 
 
 function Sobre(){
@@ -32,8 +34,22 @@ function Sobre(){
                     <text className="negrito">Habilidades.</text>
                 </div>
                 <div className="caixa-botoes">
-                    <a href="#" className="botao">Back-end</a>
-                    <a href="#" className="botao">Front-end</a>
+                    <div className="bot1">
+                        <button href="#" className="botao" >
+                            <div className="orgbutton">
+                                <text>Front-end</text>
+                                <AiOutlineArrowDown />
+                            </div>                       
+                        </button>    
+                    </div>
+                    <div className="bot1">
+                        <button href="#" className="botao" >
+                            <div className="orgbutton">
+                                <text>Back-end</text>
+                                <AiOutlineArrowDown />
+                            </div>                       
+                        </button>    
+                    </div>
                 </div>
             </div>
         </div>
